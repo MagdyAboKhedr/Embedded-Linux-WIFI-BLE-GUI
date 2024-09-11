@@ -1,0 +1,9 @@
+/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Wifi-BLE.dir
+/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Wifi-BLE_autogen_timestamp_deps.dir
+/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Wifi-BLE_autogen.dir
