@@ -1,8 +1,5 @@
-/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/build/Desktop_Qt_6_7_2-Debug/Wifi-BLE_autogen/EWIEGA46WW/moc_mainwindow.cpp: /home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/mainwindow.h \
+/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/build/Desktop_Qt_6_7_2-Debug/Wifi-BLE_autogen/EWIEGA46WW/moc_wifi_connect.cpp: /home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/wifi_connect.h \
   /home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/build/Desktop_Qt_6_7_2-Debug/Wifi-BLE_autogen/moc_predefs.h \
-  /home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/ble_window.h \
-  /home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/wifi_window.h \
-  /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/QTimer \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/q20functional.h \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/q20memory.h \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/q20type_traits.h \
@@ -16,7 +13,6 @@
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qatomic.h \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qatomic_cxx11.h \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qbasicatomic.h \
-  /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qbasictimer.h \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qbindingstorage.h \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qbytearray.h \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qbytearrayalgorithms.h \
@@ -105,7 +101,6 @@
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qtdeprecationmarkers.h \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qtenvironmentvariables.h \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qtextstream.h \
-  /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qtimer.h \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qtmetamacros.h \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qtnoop.h \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qtpreprocessorsupport.h \
@@ -147,11 +142,8 @@
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtGui/qtransform.h \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtGui/qwindowdefs.h \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtWidgets/QDialog \
-  /home/magdyrd/Qt/6.7.2/gcc_64/include/QtWidgets/QMainWindow \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtWidgets/qdialog.h \
-  /home/magdyrd/Qt/6.7.2/gcc_64/include/QtWidgets/qmainwindow.h \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtWidgets/qsizepolicy.h \
-  /home/magdyrd/Qt/6.7.2/gcc_64/include/QtWidgets/qtabwidget.h \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtWidgets/qtwidgets-config.h \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtWidgets/qtwidgetsexports.h \
   /home/magdyrd/Qt/6.7.2/gcc_64/include/QtWidgets/qtwidgetsglobal.h \

@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-103a4b44a8b50b836367.json",
+					"jsonFile" : "directory-.-Debug-e194d3c8363606306078.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Wifi-BLE::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Wifi-BLE-Debug-890e4f8b908c26c02001.json",
+					"jsonFile" : "target-Wifi-BLE-Debug-4c6a2e57fd2d6ee8b09a.json",
 					"name" : "Wifi-BLE",
 					"projectIndex" : 0
 				},

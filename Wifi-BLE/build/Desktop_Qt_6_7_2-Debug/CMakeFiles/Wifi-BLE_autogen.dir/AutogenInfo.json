@@ -385,6 +385,12 @@
 			null
 		],
 		[
+			"/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/wifi_connect.h",
+			"MU",
+			"EWIEGA46WW/moc_wifi_connect.cpp",
+			null
+		],
+		[
 			"/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/wifi_window.h",
 			"MU",
 			"EWIEGA46WW/moc_wifi_window.cpp",
@@ -467,6 +473,11 @@
 		],
 		[
 			"/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/wifi_connect.cpp",
 			"MU",
 			null
 		],

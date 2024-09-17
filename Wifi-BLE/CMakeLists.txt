@@ -27,6 +27,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         ble_window.h ble_window.cpp ble_window.ui
         execComm.cpp
         execComm.h
+        wifi_connect.h wifi_connect.cpp wifi_connect.ui
 
 
     )

@@ -11,8 +11,11 @@ Wifi-BLE_autogen/timestamp: \
 	/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/main.cpp \
 	/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/mainwindow.cpp \
 	/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/mainwindow.h \
+	/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/wifi_connect.cpp \
+	/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/wifi_connect.h \
 	/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/wifi_window.cpp \
 	/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/wifi_window.h \
+	/home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/QTimer \
 	/home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/q20functional.h \
 	/home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/q20memory.h \
 	/home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/q20type_traits.h \
@@ -26,6 +29,7 @@ Wifi-BLE_autogen/timestamp: \
 	/home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qatomic.h \
 	/home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qatomic_cxx11.h \
 	/home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qbasicatomic.h \
+	/home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qbasictimer.h \
 	/home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qbindingstorage.h \
 	/home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qbytearray.h \
 	/home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qbytearrayalgorithms.h \
@@ -114,6 +118,7 @@ Wifi-BLE_autogen/timestamp: \
 	/home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qtdeprecationmarkers.h \
 	/home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qtenvironmentvariables.h \
 	/home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qtextstream.h \
+	/home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qtimer.h \
 	/home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qtmetamacros.h \
 	/home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qtnoop.h \
 	/home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore/qtpreprocessorsupport.h \
@@ -671,5 +676,6 @@ Wifi-BLE_autogen/timestamp: \
 	/usr/lib/llvm-14/lib/clang/14.0.0/include/stddef.h \
 	/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/ble_window.ui \
 	/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/mainwindow.ui \
+	/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/wifi_connect.ui \
 	/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/wifi_window.ui \
 	/home/magdyrd/Qt/Tools/CMake/bin/cmake

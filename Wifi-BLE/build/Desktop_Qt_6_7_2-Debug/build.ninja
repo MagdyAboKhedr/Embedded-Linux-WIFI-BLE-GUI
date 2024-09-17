@@ -97,6 +97,14 @@ build CMakeFiles/Wifi-BLE.dir/execComm.cpp.o: CXX_COMPILER__Wifi-BLE_unscanned_D
   OBJECT_DIR = CMakeFiles/Wifi-BLE.dir
   OBJECT_FILE_DIR = CMakeFiles/Wifi-BLE.dir
 
+build CMakeFiles/Wifi-BLE.dir/wifi_connect.cpp.o: CXX_COMPILER__Wifi-BLE_unscanned_Debug /home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/wifi_connect.cpp || cmake_object_order_depends_target_Wifi-BLE
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/Wifi-BLE.dir/wifi_connect.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fcolor-diagnostics -fPIC
+  INCLUDES = -I/home/magdyrd/Project_GUI/Embedded-Linux-WIFI-BLE-GUI/Wifi-BLE/build/Desktop_Qt_6_7_2-Debug/Wifi-BLE_autogen/include -isystem /home/magdyrd/Qt/6.7.2/gcc_64/include/QtCore -isystem /home/magdyrd/Qt/6.7.2/gcc_64/include -isystem /home/magdyrd/Qt/6.7.2/gcc_64/mkspecs/linux-g++ -isystem /home/magdyrd/Qt/6.7.2/gcc_64/include/QtWidgets -isystem /home/magdyrd/Qt/6.7.2/gcc_64/include/QtGui
+  OBJECT_DIR = CMakeFiles/Wifi-BLE.dir
+  OBJECT_FILE_DIR = CMakeFiles/Wifi-BLE.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Wifi-BLE
@@ -105,7 +113,7 @@ build CMakeFiles/Wifi-BLE.dir/execComm.cpp.o: CXX_COMPILER__Wifi-BLE_unscanned_D
 #############################################
 # Link the executable Wifi-BLE
 
-build Wifi-BLE: CXX_EXECUTABLE_LINKER__Wifi-BLE_Debug CMakeFiles/Wifi-BLE.dir/Wifi-BLE_autogen/mocs_compilation.cpp.o CMakeFiles/Wifi-BLE.dir/main.cpp.o CMakeFiles/Wifi-BLE.dir/mainwindow.cpp.o CMakeFiles/Wifi-BLE.dir/wifi_window.cpp.o CMakeFiles/Wifi-BLE.dir/ble_window.cpp.o CMakeFiles/Wifi-BLE.dir/execComm.cpp.o | /home/magdyrd/Qt/6.7.2/gcc_64/lib/libQt6Widgets.so.6.7.2 /home/magdyrd/Qt/6.7.2/gcc_64/lib/libQt6Gui.so.6.7.2 /home/magdyrd/Qt/6.7.2/gcc_64/lib/libQt6Core.so.6.7.2 /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so || Wifi-BLE_autogen Wifi-BLE_autogen_timestamp_deps
+build Wifi-BLE: CXX_EXECUTABLE_LINKER__Wifi-BLE_Debug CMakeFiles/Wifi-BLE.dir/Wifi-BLE_autogen/mocs_compilation.cpp.o CMakeFiles/Wifi-BLE.dir/main.cpp.o CMakeFiles/Wifi-BLE.dir/mainwindow.cpp.o CMakeFiles/Wifi-BLE.dir/wifi_window.cpp.o CMakeFiles/Wifi-BLE.dir/ble_window.cpp.o CMakeFiles/Wifi-BLE.dir/execComm.cpp.o CMakeFiles/Wifi-BLE.dir/wifi_connect.cpp.o | /home/magdyrd/Qt/6.7.2/gcc_64/lib/libQt6Widgets.so.6.7.2 /home/magdyrd/Qt/6.7.2/gcc_64/lib/libQt6Gui.so.6.7.2 /home/magdyrd/Qt/6.7.2/gcc_64/lib/libQt6Core.so.6.7.2 /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so || Wifi-BLE_autogen Wifi-BLE_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_LIBRARIES = -Wl,-rpath,/home/magdyrd/Qt/6.7.2/gcc_64/lib:  /home/magdyrd/Qt/6.7.2/gcc_64/lib/libQt6Widgets.so.6.7.2  /home/magdyrd/Qt/6.7.2/gcc_64/lib/libQt6Gui.so.6.7.2  /home/magdyrd/Qt/6.7.2/gcc_64/lib/libQt6Core.so.6.7.2  /usr/lib/x86_64-linux-gnu/libGLX.so  /usr/lib/x86_64-linux-gnu/libOpenGL.so
   OBJECT_DIR = CMakeFiles/Wifi-BLE.dir
@@ -190,7 +198,7 @@ build Wifi-BLE_autogen_timestamp_deps: phony
 #############################################
 # Utility command for Wifi-BLE_autogen
 
-build Wifi-BLE_autogen: phony CMakeFiles/Wifi-BLE_autogen Wifi-BLE_autogen/include/ui_mainwindow.h Wifi-BLE_autogen/include/ui_wifi_window.h Wifi-BLE_autogen/include/ui_ble_window.h Wifi-BLE_autogen/timestamp Wifi-BLE_autogen/mocs_compilation.cpp Wifi-BLE_autogen_timestamp_deps
+build Wifi-BLE_autogen: phony CMakeFiles/Wifi-BLE_autogen Wifi-BLE_autogen/include/ui_mainwindow.h Wifi-BLE_autogen/include/ui_wifi_window.h Wifi-BLE_autogen/include/ui_ble_window.h Wifi-BLE_autogen/include/ui_wifi_connect.h Wifi-BLE_autogen/timestamp Wifi-BLE_autogen/mocs_compilation.cpp Wifi-BLE_autogen_timestamp_deps
 
 
 #############################################
@@ -207,7 +215,7 @@ build Wifi-BLE_autogen/timestamp Wifi-BLE_autogen/mocs_compilation.cpp | ${cmake
 #############################################
 # Phony custom command for CMakeFiles/Wifi-BLE_autogen
 
-build CMakeFiles/Wifi-BLE_autogen Wifi-BLE_autogen/include/ui_mainwindow.h Wifi-BLE_autogen/include/ui_wifi_window.h Wifi-BLE_autogen/include/ui_ble_window.h | ${cmake_ninja_workdir}CMakeFiles/Wifi-BLE_autogen ${cmake_ninja_workdir}Wifi-BLE_autogen/include/ui_mainwindow.h ${cmake_ninja_workdir}Wifi-BLE_autogen/include/ui_wifi_window.h ${cmake_ninja_workdir}Wifi-BLE_autogen/include/ui_ble_window.h: phony Wifi-BLE_autogen/timestamp || Wifi-BLE_autogen_timestamp_deps
+build CMakeFiles/Wifi-BLE_autogen Wifi-BLE_autogen/include/ui_mainwindow.h Wifi-BLE_autogen/include/ui_wifi_window.h Wifi-BLE_autogen/include/ui_ble_window.h Wifi-BLE_autogen/include/ui_wifi_connect.h | ${cmake_ninja_workdir}CMakeFiles/Wifi-BLE_autogen ${cmake_ninja_workdir}Wifi-BLE_autogen/include/ui_mainwindow.h ${cmake_ninja_workdir}Wifi-BLE_autogen/include/ui_wifi_window.h ${cmake_ninja_workdir}Wifi-BLE_autogen/include/ui_ble_window.h ${cmake_ninja_workdir}Wifi-BLE_autogen/include/ui_wifi_connect.h: phony Wifi-BLE_autogen/timestamp || Wifi-BLE_autogen_timestamp_deps
 
 # =============================================================================
 # Target aliases.
