@@ -39,8 +39,9 @@ void wifi_window::on_pushButton_3_clicked()
 
 void wifi_window::on_pushButton_8_clicked()
 {
+    ui->listWidget->clear();
     ui->listWidget->addItem("<----------------------Available Networks---------------------->");
-    std::string str = execCommand("nmcli --terse --fields SSID device wifi list");
+    std::string str = execCommand("nmcli -t --fields SSID device wifi list");
     wifi_list = parseSSIDs(str);
     for(const auto& ssid: wifi_list){
         ui->listWidget->addItem(QString::fromStdString(ssid));
@@ -67,6 +68,7 @@ void wifi_window::on_pushButton_4_clicked()
 
 void wifi_window::on_pushButton_5_clicked()
 {
+    ui->listWidget->clear();
     ui->listWidget->addItem("<----------------------Saved Networks---------------------->");
 
     std::string str = execCommand("nmcli -t -f name connection show");
