@@ -17,4 +17,6 @@ std::string execCommand(const std::string& command);
 
 std::vector<std::string> parseSSIDs(const std::string& output);
 
+std::string extractMACAddress(const std::string& input);
+
 #endif // EXECCOMM_H

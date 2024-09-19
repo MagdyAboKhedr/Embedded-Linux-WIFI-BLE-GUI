@@ -38,3 +38,10 @@ std::vector<std::string> parseSSIDs(const std::string& output) {
 
     return ssidList;
 }
+
+
+std::string extractMACAddress(const std::string& input) {
+    size_t start = input.find(' ') + 1; // Find the first space and move to the start of the MAC address
+    size_t end = input.find(' ', start); // Find the next space after the MAC address
+    return input.substr(start, end - start); // Extract the MAC address
+}
